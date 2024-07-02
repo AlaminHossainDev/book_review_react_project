@@ -4,7 +4,7 @@ const Banner = () => {
     <div className="hero md:h-[550px] bg-slate-100 container mx-auto rounded-lg mt-6 ">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img
-          src="https://i.ibb.co/k07MCXV/book1.png"
+          src="https://i.ibb.co/b7SMH9L/Untitled-design-1.png"
           className="max-w-sm rounded-lg"
         />
         <div>
